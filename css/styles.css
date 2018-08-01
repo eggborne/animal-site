@@ -1,0 +1,41 @@
+body {
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+  /* box-sizing: border-box; */
+  /* margin:auto; */
+}
+
+.column {
+  box-sizing: border-box;
+  width:520px;
+  display: inline-block;
+  background-color: #e5e5e5;
+  padding: 30px;
+  margin: auto;
+  border:10px solid white;
+}
+
+img {
+  width:100%;
+}
+
+#desc {
+  width: 900px;
+  margin: auto;
+  margin-bottom: 55px;
+}
+
+h1 {
+  font-family: 'Pangolin', cursive;
+  font-size: 60px;
+}
+.float-left {
+  float:left;
+}
+.float-right {
+  float:right;
+}
+#main {
+  margin:auto;
+  width:2080px;
+}
